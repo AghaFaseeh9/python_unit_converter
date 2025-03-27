@@ -8,7 +8,4 @@ A simple **Unit Converter** built with **Streamlit** that allows users to conver
 - User-friendly **Streamlit** UI  
 - Dynamic selection of units based on category  
 
-## 🛠️ Installation  
-1. Install dependencies:  
-   ```bash
-   pip install streamlit
+
